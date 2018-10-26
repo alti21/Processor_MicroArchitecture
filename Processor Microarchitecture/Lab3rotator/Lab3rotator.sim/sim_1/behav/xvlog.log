@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Alti/Lab3rotator/Lab3rotator.srcs/sources_1/new/shifterotator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shifterotator
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Alti/Lab3rotator/Lab3rotator.srcs/sim_1/new/shifter_rotator_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shifter_rotator_tb
+ERROR: [VRFC 10-1412] syntax error near # [C:/Users/Alti/Lab3rotator/Lab3rotator.srcs/sim_1/new/shifter_rotator_tb.v:68]
+ERROR: [VRFC 10-1040] module shifter_rotator_tb ignored due to previous errors [C:/Users/Alti/Lab3rotator/Lab3rotator.srcs/sim_1/new/shifter_rotator_tb.v:23]

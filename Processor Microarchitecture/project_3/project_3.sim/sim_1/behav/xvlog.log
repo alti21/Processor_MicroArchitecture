@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Alti/project_3/project_3.srcs/sources_1/imports/Downloads/FIFO.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIFO
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Alti/project_3/project_3.srcs/sim_1/imports/Downloads/FIFO_tbsim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIFO_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Alti/project_3/project_3.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
