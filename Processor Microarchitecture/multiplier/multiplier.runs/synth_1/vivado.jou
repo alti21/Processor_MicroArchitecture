@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Sat Oct 14 14:54:42 2017
+# Process ID: 352728
+# Current directory: C:/Users/Alti/multiplier/multiplier.runs/synth_1
+# Command line: vivado.exe -log top_level_for_multiplier.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top_level_for_multiplier.tcl
+# Log file: C:/Users/Alti/multiplier/multiplier.runs/synth_1/top_level_for_multiplier.vds
+# Journal file: C:/Users/Alti/multiplier/multiplier.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source top_level_for_multiplier.tcl -notrace

@@ -1,0 +1,30 @@
+Vivado Simulator 2017.2
+Time resolution is 1 ps
+There was an error at A= 2 B= 3 and time=                 136
+There was an error at A= 2 B= 5 and time=                 144
+There was an error at A= 2 B= 7 and time=                 152
+There was an error at A= 2 B= 9 and time=                 160
+There was an error at A= 2 B=11 and time=                 168
+There was an error at A= 2 B=13 and time=                 176
+There was an error at A= 3 B= 0 and time=                 184
+There was an error at A= 6 B= 3 and time=                 376
+There was an error at A= 6 B= 5 and time=                 384
+There was an error at A= 6 B= 7 and time=                 392
+There was an error at A= 6 B= 9 and time=                 400
+There was an error at A= 6 B=11 and time=                 408
+There was an error at A= 6 B=13 and time=                 416
+There was an error at A= 7 B= 0 and time=                 424
+There was an error at A=10 B= 3 and time=                 616
+There was an error at A=10 B= 5 and time=                 624
+There was an error at A=10 B= 7 and time=                 632
+There was an error at A=10 B= 9 and time=                 640
+There was an error at A=10 B=11 and time=                 648
+There was an error at A=10 B=13 and time=                 656
+There was an error at A=11 B= 0 and time=                 664
+There was an error at A=14 B= 3 and time=                 856
+There was an error at A=14 B= 5 and time=                 864
+There was an error at A=14 B= 7 and time=                 872
+There was an error at A=14 B= 9 and time=                 880
+There was an error at A=14 B=11 and time=                 888
+There was an error at A=14 B=13 and time=                 896
+Test Successful! There were          27 errors in the pipelined multiplier simulation.
